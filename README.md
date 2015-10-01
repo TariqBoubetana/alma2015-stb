@@ -1,2 +1,2 @@
-# alma2015-elo
+# alma2015-stb
 Test
